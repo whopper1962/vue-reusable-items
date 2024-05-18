@@ -8,7 +8,7 @@
               <div class="sign-up__profile-image-wrapper">
                 <img
                   class="sign-up__profile-image"
-                  :src="profileImage || '/user.png'"
+                  :src="profileImage || '/user-circle.svg'"
                   alt="profile image"
                 />
                 <div
